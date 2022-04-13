@@ -4,14 +4,14 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "6b57ec25c6cf60ec46a13b03ddb28213",
-"index.html": "a0ae475ff769662eb6554f1ac6a30a16",
-"/": "a0ae475ff769662eb6554f1ac6a30a16",
-"main.dart.js": "415e51205520a651ae3f9f4e0665d322",
+"index.html": "064c46eacc79fd0b5b6bb7fd64ab128e",
+"/": "064c46eacc79fd0b5b6bb7fd64ab128e",
+"main.dart.js": "c419f2e999919e1dc27e9736ab1b02ad",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "20efc95f17bf9893bed9be44e3b98bcf",
+"icons/Icon-maskable-192.png": "575eceea9ff624c4a5cf51d11c994678",
+"icons/Icon-maskable-512.png": "6cc06b7ee2071997691ba7aba522bb4a",
+"icons/Icon-512.png": "e4f5df1a2484f06550b4ee5204e2c83f",
 "manifest.json": "4410168070dcca22eb8b3c728b3b6152",
 "assets/AssetManifest.json": "40d2c3888473163fcc54e88286b24782",
 "assets/NOTICES": "8c5a144f8e1d1c9967c6ce6740a0e7ee",
@@ -38,7 +38,11 @@ const RESOURCES = {
 "assets/assets/fonts/Montserrat-SemiBold.ttf": "c641dbee1d75892e4d88bdc31560c91b",
 "assets/assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/assets/fonts/Inter-SemiBold.ttf": "ec60b23f3405050f546f4765a9e90fec",
-"assets/assets/gif/intro.gif": "b330acd8ed55b93bad4d465fab1bb5aa"
+"assets/assets/gif/intro.gif": "b330acd8ed55b93bad4d465fab1bb5aa",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
