@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "6b57ec25c6cf60ec46a13b03ddb28213",
-"index.html": "4060cd15aeec251bb2ded3b4e4c6e4b3",
-"/": "4060cd15aeec251bb2ded3b4e4c6e4b3",
-"main.dart.js": "c419f2e999919e1dc27e9736ab1b02ad",
+"index.html": "dee86b39ef65dc33fbdd7fe703de964a",
+"/": "dee86b39ef65dc33fbdd7fe703de964a",
+"main.dart.js": "bc96f92e8a4db665b421a42f43976631",
 "favicon.png": "06f7ffb5e40e910067f51e2bcd3a9d95",
 "icons/Icon-192.png": "20efc95f17bf9893bed9be44e3b98bcf",
 "icons/Icon-maskable-192.png": "575eceea9ff624c4a5cf51d11c994678",
@@ -38,7 +38,11 @@ const RESOURCES = {
 "assets/assets/fonts/Montserrat-SemiBold.ttf": "c641dbee1d75892e4d88bdc31560c91b",
 "assets/assets/fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/assets/fonts/Inter-SemiBold.ttf": "ec60b23f3405050f546f4765a9e90fec",
-"assets/assets/gif/intro.gif": "b330acd8ed55b93bad4d465fab1bb5aa"
+"assets/assets/gif/intro.gif": "b330acd8ed55b93bad4d465fab1bb5aa",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
